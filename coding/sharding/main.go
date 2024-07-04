@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/vsingh58/sharding/db/postgres"
+	"github.com/vsingh58/SystemDesign/coding/sharding/db/postgres"
 )
 
 func main() {
